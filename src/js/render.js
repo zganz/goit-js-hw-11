@@ -1,5 +1,5 @@
 export default function renderData (data,gallery){
-    console.log(data);
+    // console.log(data);
     data.forEach(function(element){
         
       let item =`<div class="photo-card">
